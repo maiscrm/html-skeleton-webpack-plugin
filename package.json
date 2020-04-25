@@ -5,8 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "@vue/component-compiler-utils": "3.1.2",
-    "html-webpack-plugin": "3.2.0",
-    "uuid": "^7.0.3",
-    "vue-template-compiler": "2.6.10"
+    "uuid": "7.0.3",
+    "vue-template-compiler": "2.6.10",
+    "loader-utils": "1.2.3"
   }
 }
