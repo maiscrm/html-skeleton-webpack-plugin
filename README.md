@@ -1,6 +1,6 @@
 # html-skeleton-webpack-plugin
 
-This is a plugin to help webpack inject skeleton dom element and style to html.
+This is a plugin to help webpack inject skeleton element and CSS asset into html.
 
 ## Usage
 
