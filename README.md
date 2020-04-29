@@ -48,3 +48,7 @@ This will inject skeleton element into *\<!-- inject-skeleton -->* and insert CS
 |:--:|:--:|:-----:|:----------|
 |**`cssFilename`**|`{String}`|`'sekeleton.[contenthash].css'`|The file to write the CSS asset to. Defaults to `sekeleton.[contenthash].css`.|
 |**`template`**|`{String}`||relative or absolute path to the skeleton template. By default it will use the default loading template.|
+
+## Preview
+
+![preview](./docs/preview.gif)
