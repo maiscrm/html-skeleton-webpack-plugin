@@ -1,7 +1,7 @@
 {
   "name": "@maiscrm/html-skeleton-webpack-plugin",
   "version": "0.1.0",
-  "description": "This is a plugin to help webpack inject skeleton element and CSS asset into html.",
+  "description": "This is a plugin to help webpack to inject skeleton element and CSS asset into html.",
   "keywords": [
     "webpack",
     "plugin",

@@ -1,6 +1,8 @@
+[![npm][npm]][npm-url]
+
 # html-skeleton-webpack-plugin
 
-This is a plugin to help webpack inject skeleton element and CSS asset into html.
+This is a plugin to help webpack to inject skeleton element and CSS asset into html.
 
 ## Usage
 
@@ -52,3 +54,7 @@ This will inject skeleton element into *\<!-- inject-skeleton -->* and insert CS
 ## Preview
 
 ![preview](./docs/preview.gif)
+
+
+[npm]: https://img.shields.io/npm/v/@maiscrm/html-skeleton-webpack-plugin.svg
+[npm-url]: https://www.npmjs.com/package/@maiscrm/html-skeleton-webpack-plugin
