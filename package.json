@@ -1,8 +1,27 @@
 {
-  "name": "html-skeleton-webpack-plugin",
-  "version": "1.0.0",
+  "name": "@maiscrm/html-skeleton-webpack-plugin",
+  "version": "0.1.0",
+  "description": "This is a plugin to help webpack inject skeleton element and CSS asset into html.",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "html",
+    "skeleton",
+    "html-skeleton-webpack-plugin"
+  ],
   "main": "lib/index.js",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/maiscrm/html-skeleton-webpack-plugin",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/maiscrm/html-skeleton-webpack-plugin/issues"
+  },
+  "files": [
+    "lib/",
+    "templates/"
+  ],
   "dependencies": {
     "@vue/component-compiler-utils": "3.1.2",
     "uuid": "7.0.3",
